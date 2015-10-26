@@ -1,0 +1,16 @@
+{
+    "name": "timothy-h/tinymce-templates",
+    "version": "4.3.4",
+    "description": "TinyMCE Template plugin will enable to use HTML template on WordPress Visual Editor.",
+    "keywords": ["tinymce", "Visual Editor", "template"],
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Takayuki Miyauchi",
+            "email": "miyauchi@wpist.me"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
