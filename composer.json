@@ -12,5 +12,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "composer/installers": "~1.0"
+    }
 }
